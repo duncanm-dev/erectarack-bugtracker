@@ -1,2 +1,3 @@
-# erectarack-bugtracker
-This is the issues tracker for Erectarack CDK conversion build. See the readme for more details.
+# Erectarack CDK Issue Tracker
+
+This repo is being used to track existing and closed issues for the Erectarack CDK build.
